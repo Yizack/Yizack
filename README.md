@@ -67,6 +67,9 @@ Feb 2010 - Dec 2015
 | <a href="https://github.com/Yizack"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yizack&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&count_private=true" alt="Yizack's github stats" /></a> | <a href="https://github.com/Yizack"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yizack&layout=compact&hide=python,visual+basic&count_private=false&theme=github_dark&hide_border=true" alt="Yizack's github stats"/></a> |
 | ------------- | ------------- |
 
+### Gists
+[![gists-readme](https://gists-readme.yizack.com/api?user=yizack&theme=dark)](https://gist.github.com/Yizack)
+
 ## 🎶 I love music
 *Now playing on Spotify* \
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dimatismusic&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dimatismusic&redirect=true) \
