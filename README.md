@@ -61,7 +61,7 @@ Feb 2010 - Dec 2015
 ### APIs I've worked with
 [![GitHub](https://img.shields.io/badge/github%20api-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 [![Twitter](https://img.shields.io/badge/twitter%20api-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://developer.twitter.com/en/products/twitter-api)
-[![Meta](https://img.shields.io/badge/meta%20api-%231877F2.svg?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
+[![Meta](https://img.shields.io/badge/meta%20api-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
 [![YouTube](https://img.shields.io/badge/youtube%20api-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://developers.google.com/youtube/v3)
 [![Spotify](https://img.shields.io/badge/Spotify%20api-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://developer.spotify.com/)
 [![SoundCloud](https://img.shields.io/badge/soundcloud%20api-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://developers.soundcloud.com/)
