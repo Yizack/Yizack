@@ -52,9 +52,16 @@ Feb 2010 - Dec 2015
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
+###  Continuous Integration
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) 
+[![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)
+[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)](https://codecov.io/)
+
 ### APIs I've worked with
+[![GitHub](https://img.shields.io/badge/github%20api-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 [![Twitter](https://img.shields.io/badge/twitter%20api-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://developer.twitter.com/en/products/twitter-api)
-[![Facebook](https://img.shields.io/badge/meta%20api-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://developers.facebook.com/)
+[![Meta](https://img.shields.io/badge/meta%20api-%231877F2.svg?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
 [![YouTube](https://img.shields.io/badge/youtube%20api-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://developers.google.com/youtube/v3)
 [![Spotify](https://img.shields.io/badge/Spotify%20api-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://developer.spotify.com/)
 [![SoundCloud](https://img.shields.io/badge/soundcloud%20api-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://developers.soundcloud.com/)
