@@ -2,7 +2,7 @@
 **Name:** Yizack Rangel \
 **Contact:** yizackr@gmail.com \
 **Website:** https://yizack.com \
-**Country:** ![Panama](https://gist.githubusercontent.com/Yizack/f8ae1bdb1699e0033495cdd09e9d6441/raw/e88bc4cb4bc7209cdb9834d4a37ff736e05d96cd/Flag_of_Panama.svg) Panama
+**Country:** ![Panama](https://gist.githubusercontent.com/Yizack/260f39ecd845648c7e749fde1a18687b/raw/01875b5b95131280bd82e4d9ae170552694e2b73/Flag_of_Panama.svg) Panama
 
 Passionate about computers and new technologies since I was 14 years old, it all started when I created my first blogs and bravely tried to understand and make use of the HTML editor, later I started watching videos about Java, JavaScript to create automated posting bots for social networks.
 
