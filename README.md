@@ -80,8 +80,7 @@ Feb 2010 - Dec 2015
 
 
 ### 📄 Gists
-| [![gists-readme](https://gists-readme.yizack.com/api?user=yizack&theme=dark)](https://gist.github.com/Yizack) |
-| ------------- |
+[![gists-readme](https://gists-readme.yizack.com/api?user=yizack&theme=dark)](https://gist.github.com/Yizack)
 
 ## 🎶 I love music
 *Now playing on Spotify* \
