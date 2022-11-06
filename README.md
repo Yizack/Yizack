@@ -81,7 +81,7 @@ Feb 2010 - Dec 2015
 ## 📊 Github Stats
 [![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Yizack&show_icons=true&include_all_commits=true&theme=github_dark&border_color=30363d&count_private=true)](https://github.com/Yizack)
 
-[![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yizack&layout=compact&hide=python,visual+basic&count_private=false&theme=github_dark&border_color=30363d)](https://github.com/Yizack)
+[![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yizack&layout=compact&hide=python,visual+basic&theme=github_dark&border_color=30363d)](https://github.com/Yizack)
 
 
 ### 📄 Gists
