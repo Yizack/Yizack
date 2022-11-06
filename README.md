@@ -32,7 +32,7 @@ Feb 2010 - Dec 2015
 [![Bootstrap 4](https://img.shields.io/badge/Bootstrap%204-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Vue.js](https://img.shields.io/badge/vue.js-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/nuxt.js-0c0c0d.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=00dc82)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/nuxt.js-0c0c0d.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=00dc82)](https://v3.nuxtjs.org/)
 
 ### Backend Technologies
 [![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
