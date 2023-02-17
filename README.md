@@ -4,11 +4,11 @@
 **Website:** https://yizack.com \
 **Country:** ![Panama](https://gist.githubusercontent.com/Yizack/260f39ecd845648c7e749fde1a18687b/raw/01875b5b95131280bd82e4d9ae170552694e2b73/Flag_of_Panama.svg) Panama
 
-Passionate about computers and new technologies since I was 14 years old, it all started when I created my first blogs and bravely tried to understand and make use of the HTML editor, later I started watching videos about Java, JavaScript to create automated posting bots for social networks.
+Passionate about computers and new technologies since I was 14 years old, it all started when I created my first blogs and bravely tried to understand and make use of HTML editors. Later I started watching videos about Java, and JavaScript to develop automated posting bots for social media.
 
-I like to learn and focus on new technologies related to web and mobile apps developing, the use of databases, system automation, server implementation, GitHub for projects.
+I like to learn and focus on new technologies related to developing web and mobile apps, databases, system automation, server implementations, and GitHub for personal projects.
 
-I studied Systems and Computing Engineering at the Technological University of Panama. Since the first year of my career I always told myself "There is no programming problem, exercise, homework, project that can beat me, I can do them all" I went with that thought until the end of my career and there was never a programming problem that I have given up on.
+I studied Computer and Systems Engineering at the Technological University of Panama. Since the first year of my career I always told myself "There is no programming problem or challenge that can beat me, I can do them all" I went with that mindset until the end of my career and there was never a programming problem that I have given up on.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yizack/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YizackR)
