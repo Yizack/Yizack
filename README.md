@@ -29,7 +29,7 @@ Highschool diploma, Science \
 ## 💼 Work Experience
 
 **Web App Developer** at **GRUPO K & H, S.A** \
-Panama City, Panama \
+*Pacora, Panama* \
 *May 2022 — Present*
 
 - Develop from scratch a web application to manage the inventory of products, suppliers, sellers, invoices, and customers of the company using Node.js on Heroku.
@@ -40,7 +40,7 @@ Panama City, Panama \
 - Incorporate search filters and Excel files generator of all the data for further analysis
 
 **Full-Stack Developer and Administrator** at **Panama Esports Productions** \
-*Pacora, Panama* \
+Panama City, Panama \
 April 2019 — Present 
 
 - Helping projects in favor of Esports and Gaming in Panama.
