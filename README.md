@@ -24,12 +24,13 @@ Panama City, Panama \
 
 **Escuela Secundaria Pedro Pablo Sánchez** \
 Highschool diploma, Science \
+La Chorrera, Panama \
 *Feb 2010 — Dec 2015*
 
 ## 💼 Work Experience
 
 **Web App Developer** at **GRUPO K & H, S.A** \
-*Pacora, Panama* \
+Pacora, Panama \
 *May 2022 — Present*
 
 - Develop from scratch a web application to manage the inventory of products, suppliers, sellers, invoices, and customers of the company using Node.js on Heroku.
@@ -41,7 +42,7 @@ Highschool diploma, Science \
 
 **Full-Stack Developer and Administrator** at **Panama Esports Productions** \
 Panama City, Panama \
-April 2019 — Present 
+*April 2019 — Present* 
 
 - Helping projects in favor of Esports and Gaming in Panama.
 - Administration of the server, official website, and company's web domains.
