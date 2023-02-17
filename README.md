@@ -1,4 +1,5 @@
 # Welcome to my GitHub Profile! 👋
+
 **Name:** Yizack Rangel \
 **Contact:** yizackr@gmail.com \
 **Website:** https://yizack.com \
@@ -15,16 +16,55 @@ I studied Computer and Systems Engineering at the Technological University of Pa
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YizackR)
 
 ## 🎓 Education
+
 **Universidad Tecnológica de Panamá** \
-*Engineer's degree, Degree in Computer and Systems Engineering* \
-Jan 2016 - May 2022
+Engineer's degree, Computer and Systems Engineering \
+Panama City, Panama \
+*Jan 2016 — May 2022*
 
 **Escuela Secundaria Pedro Pablo Sánchez** \
-*Bachelor's degree, Bachelor of Science* \
-Feb 2010 - Dec 2015
+Highschool diploma, Science \
+*Feb 2010 — Dec 2015*
+
+## 💼 Work Experience
+
+**Web App Developer** at **GRUPO K & H, S.A** \
+Panama City, Panama \
+*May 2022 — Present*
+
+- Develop from scratch a web application to manage the inventory of products, suppliers, sellers, invoices, and customers of the company using Node.js on Heroku.
+- Work alongside the Administrator to plan, develop, document, test, deploy, and maintain the web application and database.
+- Create and maintain a role-based user login system.
+- Develop a REST API to control user functions using Express.js with PostgreSQL while utilizing Vue.js on the front end.
+- Implement Word and PDF invoices generator for physical printing.
+- Incorporate search filters and Excel files generator of all the data for further analysis
+
+**Full-Stack Developer and Administrator** at **Panama Esports Productions** \
+*Pacora, Panama* \
+April 2019 — Present 
+
+- Helping projects in favor of Esports and Gaming in Panama.
+- Administration of the server, official website, and company's web domains.
+- Work alongside the CEOs and Graphic Designers to plan and create landing web pages built with PHP or Vue.js for promoting and exhibiting gaming tournaments.
+- Implement web forms for collecting tournament participants' data using MySQL.
+- Carry out any other programming or web design work for clients who contact the company looking for a personalized service.
+
+## ⚡ Quality Practices
+
+- Clean and readable code
+- Use of code linter rules
+- Performance optimization
+- Troubleshooting
+- Continuous Integration
+- Optimistic
+- Ability to adapt and learn
+- Analytical and logical skills
+- Time management
 
 ## 📌 Skills
+
 ### Frontend Technologies
+
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=323330)
 [![Vue.js](https://img.shields.io/badge/vue.js-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/nuxt.js-0c0c0d.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=00dc82)](https://v3.nuxtjs.org/)
@@ -36,6 +76,7 @@ Feb 2010 - Dec 2015
 
 
 ### Backend Technologies
+
 [![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -47,6 +88,7 @@ Feb 2010 - Dec 2015
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### Software Skills
+
 [![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/)
@@ -62,12 +104,14 @@ Feb 2010 - Dec 2015
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 
 ###  Continuous Integration
+
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) 
 [![CircleCI](https://img.shields.io/badge/circle%20ci-343434.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)
 [![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![CodeCov](https://img.shields.io/badge/codecov-F01F7A.svg?style=for-the-badge&logo=codecov&logoColor=white)](https://codecov.io/)
 
 ### APIs I've worked with
+
 [![GitHub](https://img.shields.io/badge/github%20api-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 [![Twitter](https://img.shields.io/badge/twitter%20api-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://developer.twitter.com/en/products/twitter-api)
 [![Meta](https://img.shields.io/badge/meta%20api-0467DF.svg?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
@@ -81,16 +125,20 @@ Feb 2010 - Dec 2015
 [![Twitch](https://img.shields.io/badge/Twitch%20api-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://dev.twitch.tv/)
 
 ## 📊 Github Stats
+
 [![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Yizack&show_icons=true&include_all_commits=true&theme=github_dark&border_color=30363d&count_private=true)](https://github.com/Yizack)
 
 [![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yizack&layout=compact&hide=python,visual+basic&theme=github_dark&border_color=30363d)](https://github.com/Yizack)
 
 
 ### 📄 Gists
+
 [![gists-readme](https://gists-readme.yizack.com/api?user=yizack&theme=dark)](https://gist.github.com/Yizack)
 
 ## 🎶 I love music
-*Now playing on Spotify* \
+
+*Now playing on Spotify* 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dimatismusic&cover_image=true&theme=natemoo-re&bar_color=1DB954&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dimatismusic&redirect=true) \
 [![Spotify](https://img.shields.io/badge/My%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dimatismusic?si=9cf3f06496f44080)
 [![Spotify](https://img.shields.io/badge/Artist%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0RAT9Q5WZwzJRJgTI38zJR?si=5563fcdbdef54b47)
