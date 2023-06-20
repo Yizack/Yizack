@@ -5,11 +5,11 @@
 **Website:** https://yizack.com \
 **Country:** ![Panama](https://gist.githubusercontent.com/Yizack/260f39ecd845648c7e749fde1a18687b/raw/01875b5b95131280bd82e4d9ae170552694e2b73/Flag_of_Panama.svg) Panama
 
-Passionate about computers and new technologies since I was 14 years old, it all started when I created my first blogs and bravely tried to understand and make use of HTML editors. Later I started watching videos about Java, and JavaScript to develop automated posting bots for social media.
+Currently, I consider myself an enthusiast in the development of Progressive Web Applications (PWAs), mainly using Nuxt, the Vue framework, and the power of Serverless services to take advantage of their high performance at a low cost.
 
-I like to learn and focus on new technologies related to developing web and mobile apps, databases, system automation, server implementations, and GitHub for personal projects.
+I have been passionate about computers and new technologies since I was 14 years old. It all began when I created my first blogs and bravely tried to understand and use HTML editors. Later, I started watching videos to learn Java and JavaScript, which allowed me to develop automated posting bots for social media.
 
-I studied Computer and Systems Engineering at the Technological University of Panama. Since the first year of my career I always told myself "There is no programming problem or challenge that can beat me, I can do them all" I went with that mindset until the end of my career and there was never a programming problem that I have given up on.
+I studied Computer Systems Engineering at the Technological University of Panama. I am deeply passionate about computers and emerging technologies. I have experience in web and mobile app development, system automation, and database management. With my determination, I am confident in my ability to overcome any programming challenge that comes my way.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yizack/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YizackR)
@@ -68,7 +68,7 @@ Panama City, Panama \
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=323330)
 [![Vue.js](https://img.shields.io/badge/vue.js-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/nuxt.js-0c0c0d.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=00dc82)](https://v3.nuxtjs.org/)
+[![Nuxt](https://img.shields.io/badge/nuxt-0c0c0d.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=00dc82)](https://nuxt.com/)
 [![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -78,9 +78,9 @@ Panama City, Panama \
 
 ### Backend Technologies
 
+[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Cloudflare Workers](https://img.shields.io/badge/Workers-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://workers.cloudflare.com/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -109,7 +109,8 @@ Panama City, Panama \
 
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) 
 [![CircleCI](https://img.shields.io/badge/circle%20ci-343434.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)
-[![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
 [![CodeCov](https://img.shields.io/badge/codecov-F01F7A.svg?style=for-the-badge&logo=codecov&logoColor=white)](https://codecov.io/)
 
 ### APIs I've worked with
