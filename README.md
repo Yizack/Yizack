@@ -135,6 +135,7 @@ Panama City, Panama \
 [![Riot Games](https://img.shields.io/badge/Riot%20Games%20api-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](https://developer.riotgames.com/)
 [![Twitch](https://img.shields.io/badge/Twitch%20api-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://dev.twitch.tv/)
 [![PayPal](https://img.shields.io/badge/PayPal%20api-003087.svg?style=for-the-badge&logo=PayPal&logoColor=white)](https://developer.paypal.com/)
+[![Paddle](https://img.shields.io/badge/Paddle%20api-FDDD35.svg?style=for-the-badge&logo=Paddle&logoColor=black)](https://developer.paddle.com/)
 
 ## 📊 Github Stats
 
