@@ -112,6 +112,9 @@ Panama City, Panama \
 [![Capacitor](https://img.shields.io/badge/capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)](https://capacitorjs.com/)
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
 [![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Remedy](https://img.shields.io/badge/remedy-FE5000?style=for-the-badge&logo=bmcsoftware&logoColor=white)](http://www.bmc.com/)
+[![SAP Data Services](https://img.shields.io/badge/sap%20data%20services-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform/data-services.html)
 
 ###  Continuous Integration
 
