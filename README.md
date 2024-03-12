@@ -42,7 +42,7 @@ Pacora, Panama \
 - Create and maintain a role-based user login system.
 - Develop a REST API to control user functions using Express.js with PostgreSQL while utilizing Vue.js on the front end.
 - Implement Word and PDF invoices generator for physical printing.
-- Incorporate search filters and Excel files generator of all the data for further analysis
+- Incorporate search filters and Excel files generator of all the data for further analysis.
 
 **Full-Stack Developer and Administrator** at **Panama Esports Productions** \
 Panama City, Panama \
@@ -155,6 +155,7 @@ Panama City, Panama \
 
 *Now playing on Spotify* 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dimatismusic&cover_image=true&theme=natemoo-re&bar_color=1DB954&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dimatismusic&redirect=true) \
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dimatismusic&cover_image=true&theme=natemoo-re&bar_color=1DB954&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dimatismusic&redirect=true)
+
 [![Spotify](https://img.shields.io/badge/My%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dimatismusic?si=9cf3f06496f44080)
 [![Spotify](https://img.shields.io/badge/Artist%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0RAT9Q5WZwzJRJgTI38zJR?si=5563fcdbdef54b47)
