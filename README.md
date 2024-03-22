@@ -31,7 +31,7 @@ La Chorrera, Panama \
 
 **Programming Specialist** at **Millicom (Tigo)** \
 Panama City, Panama \
-*Aug 2023 — Present*
+*Aug 2023 — Mar 2024*
 
 **Web App Developer** at **GRUPO K & H, S.A** \
 Pacora, Panama \
