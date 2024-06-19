@@ -33,9 +33,9 @@ La Chorrera, Panama \
 Panama City, Panama \
 *Aug 2023 — Mar 2024*
 
-- Worked with teams to develop and maintain internal web applications and services.
+- Worked with teams to develop and maintain internal Vue web applications and services.
 - Created and maintained API integrations using Laravel.
-- Developed and optimized ETL processes to extract, transform, and load data efficiently between different databases.
+- Developed and optimized ETL processes to efficiently extract, transform, and load data between different databases.
 - Participated in Solution Design with the team for new or improvement of existing systems.
 - Managed the regional IT page as a Community Member of the company's Microsoft SharePoint Enterprise Portal.
 
