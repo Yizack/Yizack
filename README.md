@@ -12,7 +12,7 @@ I have been passionate about computers and new technologies since I was 14 years
 I studied Computer Systems Engineering at the Technological University of Panama. I am deeply passionate about computers and emerging technologies. I have experience in web and mobile app development, system automation, and database management. With my determination, I am confident in my ability to overcome any programming challenge that comes my way.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yizack/)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YizackR)
+[![Twitter](https://img.shields.io/badge/x%20(twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YizackR)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YizackR)
 
 ## 🎓 Education
