@@ -161,7 +161,7 @@ Panama City, Panama \
 
 *Now playing on Spotify* 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dimatismusic&cover_image=true&theme=natemoo-re&bar_color=1DB954&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dimatismusic&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dimatismusic&cover_image=true&theme=natemoo-re&bar_color=1DB954&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dimatismusic&redirect=true)
 
 [![Spotify](https://img.shields.io/badge/My%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dimatismusic?si=9cf3f06496f44080)
 [![Spotify](https://img.shields.io/badge/Artist%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0RAT9Q5WZwzJRJgTI38zJR?si=5563fcdbdef54b47)
