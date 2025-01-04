@@ -82,7 +82,7 @@ Panama City, Panama \
 [![Nuxt](https://img.shields.io/badge/nuxt-020420.svg?style=for-the-badge&logo=nuxt&logoColor=00dc82)](https://nuxt.com/)
 [![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=white)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Tailwind](https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
