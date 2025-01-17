@@ -5,11 +5,11 @@
 **Website:** https://yizack.com \
 **Country:** ![Panama](https://gist.githubusercontent.com/Yizack/260f39ecd845648c7e749fde1a18687b/raw/01875b5b95131280bd82e4d9ae170552694e2b73/Flag_of_Panama.svg) Panama
 
-Currently, I consider myself an enthusiast in the development of Progressive Web Applications (PWAs), mainly using Nuxt, the Vue framework, and the power of Serverless services to take advantage of their high performance at a low cost.
+I like developing Web Applications and API Integrations, mainly using Nuxt, the Vue framework, and the power of Serverless services to take advantage of their high performance at a low cost.
 
-I have been passionate about computers and new technologies since I was 14 years old. It all began when I created my first blogs and bravely tried to understand and use HTML editors. Later, I started watching videos to learn Java and JavaScript, which allowed me to develop automated posting bots for social media.
+My passion for computers began at the age of 14. It all started with creating my first blogs and diving into HTML editors, driven by curiosity and a desire to learn. Over time, I began watching tutorials to learn Java and JavaScript, which allowed me to have a brief understanding of coding before starting my degree which is why I performed well in development subjects.
 
-I studied Computer Systems Engineering at the Technological University of Panama. I am deeply passionate about computers and emerging technologies. I have experience in web and mobile app development, system automation, and database management. With my determination, I am confident in my ability to overcome any programming challenge that comes my way.
+I studied Computer Systems Engineering at the Technological University of Panama. I am deeply passionate about computers and emerging technologies. I have experience in Web and Mobile App Development, API Integrations, Server Administration, System Automation, and Database Management. With my determination, I am confident in my ability to overcome any programming challenge that comes my way.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yizack/)
 [![Twitter](https://img.shields.io/badge/x%20(twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YizackR)
