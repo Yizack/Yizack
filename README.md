@@ -9,7 +9,7 @@ I like developing Web Applications and API Integrations, mainly using Nuxt, the 
 
 My passion for computers began at the age of 14. It all started with creating my first blogs and diving into HTML editors, driven by curiosity and a desire to learn. Over time, I began watching tutorials to learn Java and JavaScript, which allowed me to have a brief understanding of coding before starting my degree which is why I performed well in development subjects.
 
-I studied Computer Systems Engineering at the Technological University of Panama. I am deeply passionate about computers and emerging technologies. I have experience in Web and Mobile App Development, API Integrations, Server Administration, System Automation, and Database Management. With my determination, I am confident in my ability to overcome any programming challenge that comes my way.
+I studied Computer Systems Engineering at the Technological University of Panama. I am deeply passionate about computers and emerging technologies. I have experience in Web and Mobile App Development, API Integrations, Server Administration, System Automation, Database Management, Testing, and Continuous Integration. With my determination, I am confident in my ability to overcome any programming challenge that comes my way.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yizack/)
 [![Twitter](https://img.shields.io/badge/x%20(twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YizackR)
