@@ -82,11 +82,11 @@ Panama City, Panama \
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![Vue.js](https://img.shields.io/badge/vue.js-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Nuxt](https://img.shields.io/badge/nuxt-020420.svg?style=for-the-badge&logo=nuxt&logoColor=00dc82)](https://nuxt.com/)
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind](https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=white)
-[![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Tailwind](https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ### Backend Technologies
 
@@ -148,12 +148,13 @@ Panama City, Panama \
 [![PayPal](https://img.shields.io/badge/PayPal%20api-003087.svg?style=for-the-badge&logo=PayPal&logoColor=white)](https://developer.paypal.com/)
 [![Paddle](https://img.shields.io/badge/Paddle%20api-FDDD35.svg?style=for-the-badge&logo=Paddle&logoColor=black)](https://developer.paddle.com/)
 
-## 📊 Github Stats
+## 📊 Stats
 
 [![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Yizack&show_icons=true&include_all_commits=true&theme=github_dark&border_color=30363d&count_private=true)](https://github.com/Yizack)
 
 [![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yizack&layout=compact&hide=python,visual+basic&theme=github_dark&border_color=30363d)](https://github.com/Yizack)
 
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yizack&layout=compact&theme=github_dark&border_color=30363d)](https://wakatime.com/@yizack)
 
 ### 📄 Gists
 
