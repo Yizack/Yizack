@@ -1,6 +1,5 @@
 # Welcome to my GitHub Profile! 👋
 
-**Name:** Yizack Rangel \
 **Contact:** yizackr@gmail.com \
 **Website:** https://yizack.com \
 **Country:** ![Panama](https://gist.githubusercontent.com/Yizack/260f39ecd845648c7e749fde1a18687b/raw/01875b5b95131280bd82e4d9ae170552694e2b73/Flag_of_Panama.svg) Panama
@@ -12,8 +11,6 @@ My passion for computers began at the age of 14. It all started with creating my
 I studied Computer Systems Engineering at the Technological University of Panama. I am deeply passionate about computers and emerging technologies. I have experience in Web and Mobile App Development, API Integrations, Server Administration, System Automation, Database Management, Testing, and Continuous Integration. With my determination, I am confident in my ability to overcome any programming challenge that comes my way.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yizack/)
-[![Twitter](https://img.shields.io/badge/x%20(twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YizackR)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YizackR)
 
 ## 🎓 Education
 
@@ -132,39 +129,9 @@ Panama City, Panama \
 [![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
 [![CodeCov](https://img.shields.io/badge/codecov-F01F7A.svg?style=for-the-badge&logo=codecov&logoColor=white)](https://codecov.io/)
 
-### APIs I've worked with
-
-[![GitHub](https://img.shields.io/badge/github%20api-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
-[![Twitter](https://img.shields.io/badge/twitter%20api-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://developer.twitter.com/en/products/twitter-api)
-[![Meta](https://img.shields.io/badge/meta%20api-0467DF.svg?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
-[![YouTube](https://img.shields.io/badge/youtube%20api-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://developers.google.com/youtube/v3)
-[![Spotify](https://img.shields.io/badge/Spotify%20api-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://developer.spotify.com/)
-[![SoundCloud](https://img.shields.io/badge/soundcloud%20api-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://developers.soundcloud.com/)
-[![Google](https://img.shields.io/badge/google%20api-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare%20api-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://api.cloudflare.com/)
-[![Discord](https://img.shields.io/badge/Discord%20api-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/intro)
-[![Riot Games](https://img.shields.io/badge/Riot%20Games%20api-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](https://developer.riotgames.com/)
-[![Twitch](https://img.shields.io/badge/Twitch%20api-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://dev.twitch.tv/)
-[![PayPal](https://img.shields.io/badge/PayPal%20api-003087.svg?style=for-the-badge&logo=PayPal&logoColor=white)](https://developer.paypal.com/)
-[![Paddle](https://img.shields.io/badge/Paddle%20api-FDDD35.svg?style=for-the-badge&logo=Paddle&logoColor=black)](https://developer.paddle.com/)
 
 ## 📊 Stats
 
 [![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Yizack&show_icons=true&include_all_commits=true&theme=github_dark&border_color=30363d&count_private=true)](https://github.com/Yizack)
 
 [![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yizack&layout=compact&hide=python,visual+basic&theme=github_dark&border_color=30363d)](https://github.com/Yizack)
-
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yizack&layout=compact&theme=github_dark&border_color=30363d)](https://wakatime.com/@yizack)
-
-### 📄 Gists
-
-[![gists-readme](https://gists-readme.yizack.com/api?user=yizack&theme=dark)](https://gist.github.com/Yizack)
-
-## 🎶 I love music
-
-*Now playing on Spotify* 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dimatismusic&cover_image=true&theme=natemoo-re&bar_color=1DB954&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dimatismusic&redirect=true)
-
-[![Spotify](https://img.shields.io/badge/My%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dimatismusic?si=9cf3f06496f44080)
-[![Spotify](https://img.shields.io/badge/Artist%20Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0RAT9Q5WZwzJRJgTI38zJR?si=5563fcdbdef54b47)
