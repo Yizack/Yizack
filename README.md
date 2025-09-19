@@ -39,7 +39,7 @@ Panama City, Panama \
 
 **Web App Developer** at **GRUPO K & H, S.A** \
 Pacora, Panama \
-*May 2022 — Present*
+*May 2022 — Sep 2025*
 
 - Develop a web app with Nuxt and PostgreSQL on Heroku to manage inventory, suppliers, sellers, invoices, and customers.
 - Work alongside the Administrator to plan, develop, document, test, deploy, and maintain the web application and database.
