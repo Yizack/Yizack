@@ -26,7 +26,7 @@ La Chorrera, Panama \
 
 ## 💼 Work Experience
 
-**Programming Specialist** at **Millicom (Tigo)** \
+**Programming Specialist** at **Millicom (Tigo Panamá)** \
 Panama City, Panama \
 *Aug 2023 — Mar 2024*
 
