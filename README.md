@@ -4,72 +4,13 @@
 **Website:** https://yizack.com \
 **Country:** ![Panama](https://gist.githubusercontent.com/Yizack/260f39ecd845648c7e749fde1a18687b/raw/01875b5b95131280bd82e4d9ae170552694e2b73/Flag_of_Panama.svg) Panama
 
-I like developing Web Applications and API Integrations, mainly using Nuxt, the Vue framework, and the power of Serverless services to take advantage of their high performance at a low cost.
+I enjoy developing Web Applications and API Integrations, mainly using [Nuxt](https://nuxt.com/), the [Vue](https://vuejs.org/) framework, and the power of Serverless services.
 
-My passion for computers began at the age of 14. It all started with creating my first blogs and diving into HTML editors, driven by curiosity and a desire to learn. Over time, I began watching tutorials to learn Java and JavaScript, which allowed me to have a brief understanding of coding before starting my degree which is why I performed well in development subjects.
+My passion for computers began at the age of 14. It all started with creating blogs and diving into HTML editors, driven by curiosity and a desire to learn. Over time, I began watching tutorials to learn Java and JavaScript, which allowed me to have a brief understanding of coding before starting my bachelor's degree.
 
-I studied Computer Systems Engineering at the Technological University of Panama. I am deeply passionate about computers and emerging technologies. I have experience in Web and Mobile App Development, API Integrations, Server Administration, System Automation, Database Management, Testing, and Continuous Integration. With my determination, I am confident in my ability to overcome any programming challenge that comes my way.
+I studied a bachelor's degree in Computer Systems Engineering at the Technological University of Panama. I am deeply passionate about computers and emerging technologies. I have experience in Web and Mobile App Development, API Integrations, Server Management, Domains Administration, System Automation, Database Management, Testing, Continuous Integration. With my determination, I am confident in my ability to overcome any programming challenge that comes my way.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yizack/)
-
-## 🎓 Education
-
-**Universidad Tecnológica de Panamá** \
-Engineer's degree, Computer and Systems Engineering \
-Panama City, Panama \
-*Jan 2016 — May 2022*
-
-**Escuela Secundaria Pedro Pablo Sánchez** \
-Highschool diploma, Science \
-La Chorrera, Panama \
-*Feb 2010 — Dec 2015*
-
-## 💼 Work Experience
-
-**Programming Specialist** at **Millicom (Tigo Panamá)** \
-Panama City, Panama \
-*Aug 2023 — Mar 2024*
-
-- Collaborated with teams to develop and maintain internal web applications and services.
-- Created and maintained API integrations and web applications using Laravel and Vue.
-- Developed and optimized ETL processes in SAP BODS to extract, transform, and load data efficiently between different databases.
-- Created and improved Oracle SQL queries.
-- Participated in Solution Design with the team for new or improvement of existing systems.
-- Managed the regional IT page as a Community Member of the company's Microsoft SharePoint Enterprise Portal.
-
-**Web App Developer** at **GRUPO K & H, S.A** \
-Pacora, Panama \
-*May 2022 — Sep 2025*
-
-- Develop a web app with Nuxt and PostgreSQL on Heroku to manage inventory, suppliers, sellers, invoices, and customers.
-- Work alongside the Administrator to plan, develop, document, test, deploy, and maintain the web application and database.
-- Create and maintain a role-based user login system.
-- Implement Word and PDF invoice generators for physical printing.
-- Incorporate search filters and Excel file generator of all the data for further analysis.
-- Develop a full-featured, customized online store using Nuxt, hosted on Cloudflare Pages, leveraging D1, KV, and R2 services.
-- Integrated Amazon SES for the store's email capabilities.
-
-**Full-Stack Developer and Administrator** at **Panama Esports Productions** \
-Panama City, Panama \
-*April 2019 — Present* 
-
-- Helping projects in favor of Esports and Gaming in Panama.
-- Administration of the server, official website, and company's web domains.
-- Work alongside the CEOs and graphic designers to plan and create landing web pages built with PHP or Vue to promote and exhibit gaming tournaments.
-- Implement web forms for collecting tournament participants' data using MySQL.
-- Provide customized programming and web design solutions for clients seeking personalized services through the company.
-
-## ⚡ Quality Practices
-
-- Clean and readable code
-- Use of code linter rules
-- Performance optimization
-- Troubleshooting
-- Continuous Integration
-- Optimistic
-- Ability to adapt and learn
-- Analytical and logical skills
-- Time management
 
 ## 📌 Skills
 
