@@ -73,6 +73,6 @@ I studied a bachelor's degree in Computer Systems Engineering at the Technologic
 
 ## 📊 Stats
 
-[![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Yizack&show_icons=true&include_all_commits=true&theme=github_dark&border_color=30363d&count_private=true)](https://github.com/Yizack)
+[![github-readme-stats](https://stats-yizack.vercel.app/api?username=Yizack&show_icons=true&include_all_commits=true&theme=github_dark&border_color=30363d&count_private=true)](https://github.com/Yizack)
 
-[![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yizack&layout=compact&hide=python,visual+basic&theme=github_dark&border_color=30363d)](https://github.com/Yizack)
+[![github-readme-stats](https://stats-yizack.vercel.app/api/top-langs/?username=Yizack&layout=compact&hide=python,visual+basic&theme=github_dark&border_color=30363d)](https://github.com/Yizack)
